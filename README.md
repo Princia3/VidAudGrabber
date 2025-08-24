@@ -30,5 +30,9 @@ Install the required libraries using `pip`:
 pip install flask yt-dlp Werkzeug
  or just run 
 pip install -r requirements.txt
+```
 
-
+## ScreenShots
+![App Screenshot](static/Screenshots/1.png)
+![App Screenshot](static/Screenshots/2.png)
+![App Screenshot](static/Screenshots/3.png)
